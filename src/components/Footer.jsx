@@ -22,7 +22,7 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: IconBrandGithub, href: 'https://github.com/bhargav278', label: 'GitHub' },
-    { icon: IconBrandLinkedin, href: 'https://linkedin.com/in/bhargav-vekariya', label: 'LinkedIn' },
+    { icon: IconBrandLinkedin, href: 'https://www.linkedin.com/in/bhargav-vekariya-520681241/', label: 'LinkedIn' },
     { icon: IconMail, href: 'mailto:bhargav4596vekariya@gmail.com', label: 'Email' },
     { icon: IconCode, href: 'https://leetcode.com/u/VekariyaBhargav', label: 'LeetCode' },
   ];

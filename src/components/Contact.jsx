@@ -79,7 +79,7 @@ const Contact = () => {
                 </span>
               </a>
 
-              <a href="https://linkedin.com/in/bhargav-vekariya" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
+              <a href="https://www.linkedin.com/in/bhargav-vekariya-520681241/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
                 <div className={`p-3 rounded-full transition-colors ${theme === 'dark' ? 'bg-white/5 group-hover:bg-white/10' : 'bg-black/5 group-hover:bg-black/10'
                   }`}>
                   <IconBrandLinkedin size={24} className={theme === 'dark' ? 'text-dark-text-primary' : 'text-light-text-primary'} />

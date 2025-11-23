@@ -142,7 +142,7 @@ Bhargav Vekariya
 
 - Email: bhargav4596vekariya@gmail.com
 - GitHub: [@bhargav278](https://github.com/bhargav278)
-- LinkedIn: [bhargav-vekariya](https://linkedin.com/in/bhargav-vekariya)
+- LinkedIn: [bhargav-vekariya](https://www.linkedin.com/in/bhargav-vekariya-520681241/)
 
 ---
 

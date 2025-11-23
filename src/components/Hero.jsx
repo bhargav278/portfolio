@@ -7,7 +7,7 @@ const Hero = () => {
 
   const socilaMedia = [
     { icon: IconBrandGithub, href: 'https://github.com/bhargav278' },
-    { icon: IconBrandLinkedin, href: 'https://linkedin.com/in/bhargav-vekariya' },
+    { icon: IconBrandLinkedin, href: 'https://www.linkedin.com/in/bhargav-vekariya-520681241/' },
     { icon: IconMail, href: 'mailto:bhargav4596vekariya@gmail.com' },
   ]
 
