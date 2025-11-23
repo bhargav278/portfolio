@@ -6,7 +6,7 @@ export const experienceData = [
         duration: "May 2025 - Present",
         period: "2025",
         responsibilities: [
-            "Developed and delivered features for live, client-facing web applications in the FinTech sector, including a comprehensive insurance system with ULIP, HDFC, and a visa verification platform on Enkay.",
+            "Developed and delivered features for live, client-facing web applications in the FinTech sector.",
             "Built dynamic and responsive UIs using React.js, TypeScript, and Tailwind CSS, leveraging modern libraries like Mantine UI, TanStack Query, and TanStack Router.",
             "Contributed to backend development by building and maintaining RESTful APIs using Node.js and Express.js to ensure seamless data integration.",
             "Collaborated with a cross-functional team and utilizing Git for version control and Postman for API testing in a Linux-based workflow.",
