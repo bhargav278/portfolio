@@ -33,17 +33,20 @@ A modern, professional portfolio website built with React.js, Tailwind CSS, Thre
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/bhargav278/portfolio.git
 cd portfolio
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Configure EmailJS:
+
    - Create a free account at [EmailJS](https://www.emailjs.com/)
    - Set up an email service
    - Create an email template
@@ -53,6 +56,7 @@ npm install
      - `publicKey`
 
 4. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -113,6 +117,7 @@ Edit `tailwind.config.js` to customize the color palette.
 ### Content
 
 Update the data files in `src/data/`:
+
 - `projectsData.js` - Your projects
 - `skillsData.js` - Your skills and technologies
 - `experienceData.js` - Work experience
@@ -121,6 +126,7 @@ Update the data files in `src/data/`:
 ## Deployment
 
 This project can be deployed to:
+
 - Vercel
 - Netlify
 - GitHub Pages
@@ -133,7 +139,8 @@ MIT License - feel free to use this template for your own portfolio!
 ## Contact
 
 Bhargav Vekariya
-- Email: bhargav4506vekariya@gmail.com
+
+- Email: bhargav4596vekariya@gmail.com
 - GitHub: [@bhargav278](https://github.com/bhargav278)
 - LinkedIn: [bhargav-vekariya](https://linkedin.com/in/bhargav-vekariya)
 

@@ -59,7 +59,7 @@ const Contact = () => {
             </p>
 
             <div className="space-y-6">
-              <a href="mailto:bhargav4506vekariya@gmail.com" className="flex items-center gap-4 group">
+              <a href="mailto:bhargav4596vekariya@gmail.com" className="flex items-center gap-4 group">
                 <div className={`p-3 rounded-full transition-colors ${theme === 'dark' ? 'bg-white/5 group-hover:bg-white/10' : 'bg-black/5 group-hover:bg-black/10'
                   }`}>
                   <IconMail size={24} className={theme === 'dark' ? 'text-dark-text-primary' : 'text-light-text-primary'} />
